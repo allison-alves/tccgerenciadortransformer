@@ -1,0 +1,6 @@
+import './validPage'
+import './homePage'
+import 'cypress-file-upload'
+import './feedback'
+import './logout'
+import './adcurso'
